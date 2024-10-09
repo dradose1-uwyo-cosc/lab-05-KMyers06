@@ -3,7 +3,7 @@
 # 10/9/24
 # Lab 05
 # Lab Section: 15
-# Sources, people worked with, help given to: Zack Smith
+# Sources, people worked with, help given to: Zack Smith, Houston
 # your
 # comments
 # here
